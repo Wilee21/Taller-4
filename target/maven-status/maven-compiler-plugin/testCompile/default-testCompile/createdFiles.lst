@@ -1,0 +1,3 @@
+edu\unisabana\tyvs\registry\application\usecase\RegistryTest.class
+edu\unisabana\tyvs\registry\application\usecase\RegistryWithMockTest.class
+edu\unisabana\tyvs\registry\delivery\rest\RegistryControllerTests.class
