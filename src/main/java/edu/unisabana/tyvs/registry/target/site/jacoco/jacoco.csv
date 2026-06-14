@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+pruebasunitarias,edu.unisabana.tyvs.registry.delivery.rest.dto,PersonRequest,0,38,0,0,0,16,0,11,0,11
+pruebasunitarias,edu.unisabana.tyvs.registry.infrastructure.persistence,RegistryRepository,7,104,0,0,2,31,0,7,0,7
+pruebasunitarias,edu.unisabana.tyvs.registry.delivery.rest,RegistryController,0,37,0,0,0,6,0,2,0,2
+pruebasunitarias,edu.unisabana.tyvs.registry.domain.model,Gender,0,24,0,0,0,2,0,1,0,1
+pruebasunitarias,edu.unisabana.tyvs.registry.domain.model,Person,3,30,0,0,1,11,1,5,1,5
+pruebasunitarias,edu.unisabana.tyvs.registry.domain.model,RegisterResult,0,64,0,0,0,2,0,1,0,1
+pruebasunitarias,edu.unisabana.tyvs.registry,RegistryApplication,5,3,0,0,2,1,1,1,1,1
+pruebasunitarias,edu.unisabana.tyvs.registry.application.usecase,Registry,0,57,1,11,0,10,1,7,0,2
